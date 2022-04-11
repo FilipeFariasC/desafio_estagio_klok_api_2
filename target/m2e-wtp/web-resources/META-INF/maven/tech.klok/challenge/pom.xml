@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tech.klok</groupId>
 	<artifactId>challenge</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>desafio_estagio_api_2</name>
 	<description>Desafio de Projeto de Estágio - Klok Tech</description>
