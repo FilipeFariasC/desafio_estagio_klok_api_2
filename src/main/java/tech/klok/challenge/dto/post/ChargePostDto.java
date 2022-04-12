@@ -22,6 +22,8 @@ public class ChargePostDto {
 	
 	private ChargeStatus status;
 	private Long paymentId;
+	
+	
 	public Long getAdhesionId() {
 		return adhesionId;
 	}
